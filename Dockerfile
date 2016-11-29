@@ -1,4 +1,4 @@
-FROM openjdk:jre
+FROM openjdk:jdk
 MAINTAINER Jean Helou <jean@gmél.com>
 ENV SCALA_VERSION 2.11.8
 ENV SBT_VERSION 0.13.13
